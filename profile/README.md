@@ -10,10 +10,11 @@ Amaçlarımız birkaç noktada özetlenebilir.
 - Deprem konusundaki bilincin güçlendirilmesi.
 - Depreme hazırlık için online eğitim materyallerinin sivillere sağlanımı.
 - Deprem anı ve sonrasında insanların faydalanabileceği, kitlelerin kullanımına sunulacak yazılımların geliştirilmesi.
+- ...
 
 ### Açık Kaynak
 
-Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu bile olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi yadsınamaz. Bu yüzden en kısa zamanda bağışların toplanması adına çeşitli bağış yapma imkanları hakkında bilgilendirmeler halka sunulacaktır.
+Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi de yadsınamamalıdır. Bu yüzden en kısa zamanda bağışların toplanması adına çeşitli bağış yapma imkanları hakkında bilgilendirmeler halka sunulacaktır.
 
 ### Yazılımcılara Davet
 
