@@ -14,7 +14,7 @@ Amaçlarımız birkaç noktada özetlenebilir.
 
 ### Açık Kaynak
 
-Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi de yadsınmalıdır. Bağışlarınızla bize desteğinizi göstermek isterseniz, girişimimiz belli bir olgunluğa ulaştığında bunu yapmanız mümkün olacaktır.
+Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi de yadsınmamalıdır. Bağışlarınızla bize desteğinizi göstermek isterseniz, girişimimiz belli bir olgunluğa ulaştığında bunu yapmanız mümkün olacaktır.
 
 ### Yazılımcılara Davet
 
