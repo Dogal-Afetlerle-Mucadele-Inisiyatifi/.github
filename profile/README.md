@@ -14,8 +14,8 @@ Amaçlarımız birkaç noktada özetlenebilir.
 
 ### Açık Kaynak
 
-Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi de yadsınamamalıdır. Bağışlarınızla bize desteğinizi göstermek isterseniz, girişimimiz belli bir olgunluğa ulaştığında bunu yapmanız mümkün olacaktır.
+Yaptığımız her şey, %100 olarak herkesin erişimine açıktır. Proje yapımında katkısı olan kimselerin projelerden maddi bir çıkar elde etmesi söz konusu olamaz; ancak projelerimizin topluma ulaşımında bağışların önemi de yadsınmalıdır. Bağışlarınızla bize desteğinizi göstermek isterseniz, girişimimiz belli bir olgunluğa ulaştığında bunu yapmanız mümkün olacaktır.
 
 ### Yazılımcılara Davet
 
-Şu an bilgilendirme metnini okuduğunuz bu inisiyatif, oldukça genç bir yapıdır. Eğer bize katılarak projelerin başlangıçtan, halka arzına kadar herhangi bir noktada yardımcı olmak isterseniz sizi [Zulip](https://domi-turkiye.zulipchat.com/) kanalımıza davet etmek isteriz.
+Şu an bilgilendirme metnini okuduğunuz bu inisiyatif, oldukça genç bir yapıdır. Eğer bize katılarak projelerin başlangıcından kitlelerin kullanımına sunulana kadar herhangi bir noktada yardımcı olmak isterseniz sizi [Zulip](https://domi-turkiye.zulipchat.com/) kanalımıza davet etmek isteriz.
