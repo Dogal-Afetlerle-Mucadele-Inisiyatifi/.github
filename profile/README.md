@@ -1,6 +1,6 @@
 ## Doğal Afetlerle Mücadele İnisiyatifi (DOMI)
 
-*Don't understand this language? See our [README](./README_EN.md) in English*
+*Don't understand this language? See our [README](./profile/README_EN.md) in English*
 
 Doğal Afetlerle Mücadele İnisiyatifi, Türkiye genelindeki afetlerde kullanılmak üzere açık kaynak yazılımlar üreten bir oluşumdur.
 
