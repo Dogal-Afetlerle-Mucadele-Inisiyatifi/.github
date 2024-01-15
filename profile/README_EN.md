@@ -4,7 +4,7 @@ The Natural Disasters Combat Initiative is an organization that produces open-so
 
 ### Objectives:
 
-- Provision of necessary resources for civil organizations before earthquakes.
+- Provision of necessary resources for civil organizations against earthquakes.
 - Strengthening awareness about earthquakes.
 - Providing online educational materials for civilian earthquake preparedness.
 - Development of software that can benefit people during and after earthquakes, to be made available for public use.
@@ -16,4 +16,4 @@ Everything we do is 100% open to everyone. Those who contribute to the project c
 
 ### Invitation to Developers:
 
-The initiative you are currently reading about is a relatively young structure. If you want to join us and help with projects from inception to public release or at any stage, we invite you to our [Zulip](https://domi-turkiye.zulipchat.com/) channel. You will realize that most of the conversations are being held in Turkish. Don't be discouraged, there are surely many English speakers among us.
+The initiative you are currently reading about is a relatively young group. If you want to join us and help with projects from inception to public release, we would like to invite you to our [Zulip](https://domi-turkiye.zulipchat.com/) channel. You will realize that most of the conversations are being held in Turkish. Don't be discouraged, there are surely many English speakers among us.
